@@ -1,8 +1,8 @@
 
-192.168.153.142 root 22
+192.168.153.145 root 22 252627
 
 
-192.168.153.133 root 22
+192.168.153.133 root 22 owaspbwa 
 # in case some of servers are faulty.
 #192.168.153.149 root 22
 
